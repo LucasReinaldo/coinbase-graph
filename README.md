@@ -4,7 +4,7 @@
 <h1 align="center">Coinbase App</h1>
 
 <h1 align="center">
-    <img src="https://github.com/LucasReinaldo/coinbase-graph/blob/master/assets/coinbase-graph.gif" alt="Login" width="680" />
+    <img src="https://github.com/LucasReinaldo/coinbase-graph/blob/master/assets/coinbase-graph.gif" alt="Login" width="420" />
 </h1>
 
 
